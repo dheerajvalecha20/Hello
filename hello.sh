@@ -1,3 +1,3 @@
-echo Hello Dheeraj"
-echo Hello jenkins"
-echo $Automatic Added
+echoHello Dheeraj"
+echoHello jenkins"
+echo$Automatic Added
