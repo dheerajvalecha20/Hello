@@ -1,3 +1,4 @@
-echoHello Dheeraj"
-echoHello jenkins"
-echo$Automatic Added
+set -e
+echo "Hello Dheeraj"
+echo "Hello jenkins"
+echo "Automatic Added"
